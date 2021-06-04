@@ -1,0 +1,26 @@
+.grid{
+    border: 2px solid  black;
+    border-radius:50px;
+}
+
+.origami {
+    background-color:white;
+    border-radius:20px;
+
+    width:310px;
+    font-family: fantasy;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color:black;
+    font-family: sans-serif;
+    color:white;
+    font-weight:400;
+    font-size:20px;
+}
+
+body{
+    background-color:whitesmoke; 
+}
